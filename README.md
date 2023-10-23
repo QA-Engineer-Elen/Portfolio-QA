@@ -65,6 +65,19 @@
 - Confluence для ведения тест-плана и отчета;
 - Jira для фиксирования баг-репортов.
 
+**Файлы моего проекта:**
+ - [Приемочные тест-кейсы из Qase.io](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/d2f35c3c-c6b0-45d9-90d2-2f812fa18e05/Приемочные_тест-кейсы.pdf?id=9e746d3f-17db-46a2-be4c-0265df33c689&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698192000000&signature=W7wQfMXa_kyc73wiN50KWc_t6ARFw7JnfwIcuaYeO0Y&downloadName=Приемочные+тест-кейсы.pdf)
+ - [Декомпозиция из Miro](https://miro.com/app/board/uXjVMDGL6RE=/)
+ - [Smoke-тесты из Qase.io](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/4d858cc6-8b79-4ed1-8716-3e4cb5c33e72/Smoke-тесты.pdf?id=0c426086-00ea-48df-8ad7-a1dbd5171d02&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=tQy4p9LztTkMsF-afF1frn2T2t8_QYAvEi8P5PpWp5U&downloadName=Smoke-тесты.pdf)
+ - [Баг-репорты из Jira](https://www.notion.so/09a538eb44734529a2a66085c50effc7?pvs=4#5f21c260b0ce4e7b8324694da2b7af46)
+ - [Отчёт по функциональному тестированию](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/d043a4fb-0e61-42e9-8829-0316ad6fec09/Простой_чек-лист_(функц).pdf?id=b8b23400-fedd-4723-ba9d-d1a56b8f11eb&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698120000000&signature=yQp9iDpPeVR02xBJLr8NufhqcymTQ_fb-GXC0iUl1jI&downloadName=Простой+чек-лист+%28функц%29.pdf)
+ - [Отчёт по регрессионному тестированию](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/72ed7f17-2725-41d8-83ec-83c1d6139b9b/Регрессионный_чек-лист.pdf?id=428de9b0-c36e-4a7e-947e-daca8191bb7b&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=z5UYPT9ExIoNYZD0Ru4NQJsoMiE00l0QRH5M0bgvHBs&downloadName=Регрессионный+чек-лист.pdf)
+ - [Отчёт по Smoke Test Run](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/7c2c8db6-0673-4005-b34d-1c5f8bff6d75/CW1-Testrun2023_06_04.pdf?id=b83bd483-4e33-4b1e-9cbe-2ee64a50bf87&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=fbYl9DODtH2oGni-Gtx31rNmBmj1DNscj-yFILiJXO4&downloadName=CW1-Test%2Brun%2B2023_06_04.pdf)
+ - [Отчёт по приёмочному тестированию](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/7a85959c-9f9a-4066-96e8-f62a72d6dd43/CW1-Testrun2023_06_05.pdf?id=3aed1359-2e5d-4c98-a3ea-53b94c175f7a&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=vcWeyLAGqIZpZiZqohK-eeeBWq0fPj43BGIXKqIorVM&downloadName=CW1-Test%2Brun%2B2023_06_05.pdf)
+ - [Отчет по расширенному (низкоуровневому) функциональному чек-листу](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/84d4efa4-c362-4d60-b403-14b764fe6e6f/Расширенный_чек-лист_(функц).pdf?id=d3c7273c-3f3b-4a91-b185-25761126b036&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=xOJEffpAKlEZeuVoLdPiSJTUpZkM7laWVf10P1KqKAY&downloadName=Расширенный+чек-лист+%28функц%29.pdf)
+ - [Отчёт по финальному Test Run](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/472e8839-d7c5-40f3-aa78-57250775f7f1/Test_run_финальный.jpg?id=082000db-52d8-48d7-8401-dec177e628a8&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=5XqsPV-SE2dP-9emkpcWrryGBClWBfJ03So42WNFW9Y&downloadName=Test+run_финальный.jpg)
+  
+
 ### Проект второго курса «Тестирование API»
   <p><strong>Проект:</strong> расписание личного кабинета для учителей Skyeng.</p>
   
@@ -86,6 +99,11 @@
 - Postman для создания коллекции и автоматизации прогона;
 - Confluence для ведения тест-плана и отчета;
 - Jira для фиксирования баг-репортов.
+
+**Файлы моего проекта:**
+- [Тест-кейсы по тестированию API](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/44aea892-a05d-47f1-83e9-7fcff9a6dab9/Тестирование_API.pdf?id=f76d0ea7-d349-4d1b-b724-2ce3b5b450bb&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=jKHev7S1bbixSOhsDxEZQleZCd7LSrx_5kT3JvSOE1U&downloadName=Тестирование+API.pdf)
+- [Postman-коллекция](https://www.notion.so/09a538eb44734529a2a66085c50effc7?pvs=4#d252316be08b43fd8dc3f063026a35b9)
+- [Отчёт по тестированию API (Postman-коллекция)](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/7ce7fc03-9188-4f13-bc7d-d88e9875e297/Run_results_Postman.jpg?id=62f50763-951a-4657-9f66-5ab1cdaa1bf7&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=tJ4FtN18FR6irZv5coswjeeFuhCV-QKhWuhZwOptZR0&downloadName=Run+results_Postman.jpg)
 
 ### Результаты по двум проектам: «Основы тестирования» и «Тестирование API»
 
@@ -116,3 +134,8 @@
 **Какие инструменты были применены:**
 
 - PostgreSQL - свободная объектно-реляционная система управления базами данных (СУБД).
+
+**Файлы моего проекта:**
+- [SQL-запросы по созданию и наполнению таблиц](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/367cb4e5-8f73-442f-996f-f78f64fdf71d/Создание_и_наполнение_таблиц.sql?id=4694798d-1361-45d1-8700-75f400b39dd9&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=AdIeM0LfiksG5v5zsuxGopDhQAJ4HKAXOWu9zTvNbbg&downloadName=Создание+и+наполнение+таблиц.sql)
+- [SQL-запросы заданий](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/4fd139ec-b38f-4725-abae-cfc1fd4a5f0a/Final.sql?id=0964a16e-163a-4c7c-a1a6-9a85ba4dc718&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=TMLh-SpvNYhyoOIo6tiY9LE42LVY7QMNGXRbYNfQgU8&downloadName=Final.sql)
+  
