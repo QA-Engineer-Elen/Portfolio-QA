@@ -20,7 +20,7 @@
 - Trello
 - SoapUI 
 - PostgreSQL
-- Excel
+- MS Excel
 - Miro
 - Dev Tools
 
