@@ -16,8 +16,9 @@
 - Jira
 - Sitechco
 - Mockoon
+- ApacheJMeter
 - Trello
-- SOAP
+- SoapUI 
 - PostgreSQL
 - Excel
 - Miro
