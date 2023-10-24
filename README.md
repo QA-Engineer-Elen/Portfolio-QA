@@ -22,7 +22,7 @@
 - PostgreSQL
 - MS Excel
 - Miro
-- Dev Tools
+- ChromeDevTools
 
 **Владею языками:**
 
