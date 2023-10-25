@@ -102,7 +102,7 @@
 - Jira для фиксирования баг-репортов.
 
 **Файлы моего проекта:**
-- [Тест-кейсы по тестированию API](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/44aea892-a05d-47f1-83e9-7fcff9a6dab9/Тестирование_API.pdf?id=f76d0ea7-d349-4d1b-b724-2ce3b5b450bb&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=jKHev7S1bbixSOhsDxEZQleZCd7LSrx_5kT3JvSOE1U&downloadName=Тестирование+API.pdf)
+- [Тест-кейсы по тестированию API](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/44aea892-a05d-47f1-83e9-7fcff9a6dab9/Тестирование_API.pdf?id=f76d0ea7-d349-4d1b-b724-2ce3b5b450bb&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698292800000&signature=cf3glNbkNjDG_lfiIgdxma7e9njnteKwKSEo8HuHWh8&downloadName=Тестирование+API.pdf)
 - [Postman-коллекция](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/c0d6efff-6dbc-4ce2-9861-37e8ba9a888b/Skyeng_2.postman_collection.json?id=d252316b-e08b-43fd-8dc3-f063026a35b9&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=7n2D9zQxMdgN-618_psN_0bi6l2lCJee2mIYUR4wYvc&downloadName=Skyeng_2.postman_collection.json)
 - [Отчёт по тестированию API (Postman-коллекция)](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/7ce7fc03-9188-4f13-bc7d-d88e9875e297/Run_results_Postman.jpg?id=62f50763-951a-4657-9f66-5ab1cdaa1bf7&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1698127200000&signature=tJ4FtN18FR6irZv5coswjeeFuhCV-QKhWuhZwOptZR0&downloadName=Run+results_Postman.jpg)
 
