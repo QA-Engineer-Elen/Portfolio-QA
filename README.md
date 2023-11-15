@@ -67,6 +67,7 @@
 - Jira для фиксирования баг-репортов.
 
 **Файлы моего проекта:**
+ - [Декомпозиция. Интеллект-карта функционала "Личные события" в Miro](https://miro.com/app/board/uXjVMDGL6RE=/?share_link_id=913073460582)
  - [Приемочные тест-кейсы из Qase.io](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/d2f35c3c-c6b0-45d9-90d2-2f812fa18e05/Приемочные_тест-кейсы.pdf?id=9e746d3f-17db-46a2-be4c-0265df33c689&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1700136000000&signature=JtnFGFVmROUW5m4gJGPJV86iDBDZDKqvVxnkXmwrzDw&downloadName=Приемочные+тест-кейсы.pdf)
  - [Smoke-тесты из Qase.io](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/4d858cc6-8b79-4ed1-8716-3e4cb5c33e72/Smoke-тесты.pdf?id=0c426086-00ea-48df-8ad7-a1dbd5171d02&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1700136000000&signature=CnKA-I1LfrjUvAjAtVjvbc_wt-TFYBoeW8p3VXx01sg&downloadName=Smoke-тесты.pdf)
  - [Баг-репорты из Jira](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/96ac3595-e36e-4613-9c93-20926f35ae70/Баг-репорты_Jira.pdf?id=d7000d09-312f-45c7-b157-d9f8e15eeccd&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1700136000000&signature=pChmORlCfMTKPaz1WuVRYfYunEVfNLbJRR-jlvq87WY&downloadName=Баг-репорты+Jira.pdf)
