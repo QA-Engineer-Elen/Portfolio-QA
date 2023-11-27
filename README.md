@@ -138,6 +138,6 @@
 - PostgreSQL - свободная объектно-реляционная система управления базами данных (СУБД).
 
 **Файлы моего проекта:**
-- [SQL-запросы по созданию и наполнению таблиц](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/367cb4e5-8f73-442f-996f-f78f64fdf71d/Создание_и_наполнение_таблиц.sql?id=4694798d-1361-45d1-8700-75f400b39dd9&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1700884800000&signature=npfcWlwHKGcs2JM_ThTNXKaKg4MINQJR7wMYXZvp8ig&downloadName=Создание+и+наполнение+таблиц.sql)
-- [SQL-запросы заданий](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/4fd139ec-b38f-4725-abae-cfc1fd4a5f0a/Final.sql?id=0964a16e-163a-4c7c-a1a6-9a85ba4dc718&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1700884800000&signature=WbZPpuSRmVbnC2RhPAZ2MBaPVis7hC37dfnjnw6Faa8&downloadName=Final.sql)
+- [SQL-запросы по созданию и наполнению таблиц](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/367cb4e5-8f73-442f-996f-f78f64fdf71d/Создание_и_наполнение_таблиц.sql?id=4694798d-1361-45d1-8700-75f400b39dd9&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1701151200000&signature=57oijmunLawAVGSBdtk5nSSX1sqlF6hfaiD4dRLtr0Y&downloadName=Создание+и+наполнение+таблиц.sql)
+- [SQL-запросы заданий](https://file.notion.so/f/f/3fc574e6-d657-4966-97f9-bd28f0d54e21/4fd139ec-b38f-4725-abae-cfc1fd4a5f0a/Final.sql?id=0964a16e-163a-4c7c-a1a6-9a85ba4dc718&table=block&spaceId=3fc574e6-d657-4966-97f9-bd28f0d54e21&expirationTimestamp=1701151200000&signature=1Fv9MZY_VN2BFj9i5Od5lOGD7LQtJnPqTz9QvZJII7Q&downloadName=Final.sql)
   
